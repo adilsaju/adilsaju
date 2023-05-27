@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-MongoDB-53CA60?style-for-the-badge&logo=mongodb&logoColor=ffffff)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/-GraphQL-f72585?style-for-the-badge&logo=graphql&logoColor=ffffff)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <h4> 📫 How to reach me </h4>
 <a href='mailto:adilsaju@gmail.com'><img src='https://img.shields.io/badge/-Email-0FB659?style-for-the-badge&logo=gmail&logoColor=ffffff'></a> 
