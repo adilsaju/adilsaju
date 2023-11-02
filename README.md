@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Node.js-90a955?style-for-the-badge&logo=node.js&logoColor=ffffff)
 ![](https://img.shields.io/badge/-MongoDB-53CA60?style-for-the-badge&logo=mongodb&logoColor=ffffff)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/-GraphQL-f72585?style-for-the-badge&logo=graphql&logoColor=ffffff)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
