@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4> 🧑🏻‍💻 I’m a full stack developer</h4>
+<h4> 🧑🏻‍💻 I’m a full stack engineer</h4>
 
-<h4> ⚡ My tech stack </h4>
+<h4> Tools/Languages I've worked on: </h4>
 
 ![](https://img.shields.io/badge/-ReactJS-22577a?style-for-the-badge&logo=react&logoColor=ffffff)
 ![](https://img.shields.io/badge/-ReactNative-38a3a5?style-for-the-badge&logo=react&logoColor=ffffff)
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Bootstrap-4A4453?style-for-the-badge&logo=bootstrap&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Node.js-90a955?style-for-the-badge&logo=node.js&logoColor=ffffff)
 ![](https://img.shields.io/badge/-MongoDB-53CA60?style-for-the-badge&logo=mongodb&logoColor=ffffff)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=ffffff)
+![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=ffffff)
 
 <h4> 📫 How to reach me </h4>
 <a href='mailto:adilsaju@gmail.com'><img src='https://img.shields.io/badge/-Email-0FB659?style-for-the-badge&logo=gmail&logoColor=ffffff'></a> 
